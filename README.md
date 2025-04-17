@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Angelos
 
-<!--
-**angelosdimakos/angelosdimakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotic welding PhD | PAUT, KUKA, signal compression  
+Building deployable NDT systems @ Strathclyde | RAEng CDT Fellow
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+- 🔍 [Ideas Logger](https://github.com/angelosdimakos/Ideas_Logger): AI-powered thought capture system w/ local LLMs + CI
+- 🤖 Coming soon: ROS 2-based weld planner with real-time UT feedback
+
+---
+
+### ⚙️ Tools I Use
+Python, MATLAB, KUKA KRL, PAUT, FMC, ROS 2, CI/CD, FAISS, Ollama, GitHub Actions
+
+---
+
+### 🌱 Next up
+Building simulation pipelines for inline defect mapping with robotic PAUT + ROS 2
+
